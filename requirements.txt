@@ -1,5 +1,9 @@
 fastapi
-pydantic
 uvicorn
 transformers
 torch
+accelerate
+pydantic
+protobuf 
+safetensors
+sentencepiece
